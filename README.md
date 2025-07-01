@@ -3,7 +3,7 @@
 
 ## 🧙 Operating System
 
-Course Link | Language | My Repository
+Course | Language | My Repository
 ------------|----------|---------------
 MIT 6.S081: Operating System | C | [project](https://github.com/hiidy/ostep-solution)
 
@@ -13,7 +13,7 @@ xv6라는 미니멀 **운영체제를** 기반으로, 시스템 콜, 파일 시�
 
 ## 🗄️ Database Systems
 
-Course Link | Language | My Repository
+Course | Language | My Repository
 ------------|----------|---------------
 UCB CS186: Introduction to Database System | Java | [project](https://github.com/hiidy/SquadDB/tree/jayden)
 
@@ -23,7 +23,7 @@ Java를 이용해 인덱스, 조인, 트랜잭션, 복구 등의 데이터베이
 
 ## 🧱 Computer Architecture
 
-Course Link | Language | My Repository
+Course | Language | My Repository
 ------------|----------|---------------
 Nand2Tetris I & II | Java / ETC | [My Repo](https://github.com/hiidy/nand2tetris)
 
