@@ -30,3 +30,13 @@ Nand2Tetris I & II | Java / ETC | [My Repo](https://github.com/hiidy/nand2tetris
 논리게이트 하나(NAND)로부터 시작해 ALU, 레지스터, 메모리, CPU를 구현하고, 고급 언어(Jack)를 위한 컴파일러, 운영체제 구성 요소까지 만드는 프로젝트입니다.
 
 ---
+
+## Computer Networking
+
+Course | Language | My Repository
+------------|----------|---------------
+Stanford CS144: Computer Networking | C++ / linux | [TODO]()
+
+
+
+---
