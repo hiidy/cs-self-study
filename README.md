@@ -35,8 +35,8 @@ Nand2Tetris I & II | Java / ETC | [My Repo](https://github.com/hiidy/nand2tetris
 
 Course | Language | My Repository
 ------------|----------|---------------
-Stanford CS144: Computer Networking | C++ / linux | [TODO]()
+Stanford CS144: Computer Networking | C++ / linux | [In Progress](https://github.com/hiidy/cs144-lab)
 
-
+현대 인터넷의 핵심 프로토콜인 TCP/IP의 작동 원리를 학습하며, **신뢰할 수 있는 바이트 스트림(TCP)**을 직접 구현하는 실습 중심 강의입니다. IP, TCP, DNS, 웹 클라이언트 등 네트워크 전반의 동작을 시스템 수준에서 이해하고, C++로 실제 소켓 프로그래밍 및 프로토콜 구현을 통해 전송 계층의 구조와 흐름 제어, 혼잡 제어, 오류 처리까지 구현했습니다.
 
 ---
